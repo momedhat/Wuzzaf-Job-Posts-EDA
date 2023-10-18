@@ -1,5 +1,5 @@
 # Wuzzaf Job Posts Exploratory Analysis
-Explore jobs and job seekers applications on WUZZUF from 2014 to 2016.<br>
+Clean and Explore job applications dataset on WUZZUF from 2014 to 2016.
 
 ## Project Description 
 In the dynamic world of online job marketplaces, achieving a harmonious equilibrium between job supply and demand is an enduring challenge. At WUZZUF, our primary goal is to optimize the platform for demand, relevance, and quality. We facilitate connections between employers and prospective applicants, and curate relevant job recommendations for job seekers.
@@ -36,10 +36,19 @@ This dataset contains a sample of job postings that were published on the WUZZUF
 </details><br>
 
 
-## Insights 
+## Some Insights 
 
 The insights generated from this exploration will not only enhance our understanding of the WUZZUF job marketplace but also inform strategies for improving user experiences, growing the platform, and contributing to the broader employment ecosystem.
 
-### Insights about Supply and Demand
-getting trending job categories and industires.<br>
-![Top 20 job industries](snapshots/job_idustry.png) <br>
+#### getting trending job categories.
+![Top 20 job categories](snapshots/job_categories.png) <br>
+
+#### Most active cities in jobs.
+![Common Cities](snapshots/common_cities.png) <br>
+
+#### Which career level is the most?
+![jobCount_careerLvl](snapshots/jobCount_careerLvl.png) <br>
+
+#### Average Salaries increasing exponentially per experience years.
+![avgSal_yearExp](snapshots/avgSal_yearExp.png) <br>
+
