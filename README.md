@@ -50,5 +50,6 @@ The insights generated from this exploration will not only enhance our understan
 ![jobCount_careerLvl](snapshots/jobCount_careerLvl.png) <br>
 
 #### Average Salaries increasing exponentially per experience years.
-![avgSal_yearExp](snapshots/avgSal_yearExp.png) <br>
-
+![avgSal_yearExp](snapshots/avgSal_yearExp.png) <br><br>
+##
+#### Note: you can check other insights in the [Notebook](https://github.com/momedhat/Wuzzaf-Job-Posts-EDA/blob/main/wuzzaf_explore.ipynb).
